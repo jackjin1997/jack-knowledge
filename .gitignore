@@ -1,0 +1,63 @@
+# Sensitive Information
+*.key
+*.pem
+*.env
+.env.*
+credentials.json
+secrets.yaml
+config.local.*
+
+# API Keys and Tokens
+**/api-keys/
+**/tokens/
+
+# Local Configuration
+.local/
+*.local.md
+local-config/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.log
+*.cache
+
+# Node Modules (if any)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python (if any)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# Backup Files
+*.bak
+*.backup
+*_backup
+
+# Personal Notes
+NOTES.md
+TODO.local.md
+scratch/
