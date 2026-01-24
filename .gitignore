@@ -61,3 +61,8 @@ env/
 NOTES.md
 TODO.local.md
 scratch/
+
+# Decision Making Records (Private)
+decision-making/records/*
+!decision-making/records/.gitkeep
+!decision-making/records/template.md

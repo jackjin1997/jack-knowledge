@@ -12,6 +12,7 @@ jack-knowledge/
 ├── workflows/       # 工作流库 - 开发最佳实践
 ├── snippets/        # 代码片段库 - 常用代码模式
 ├── resources/       # 外部资源索引 - 文档、工具、社区
+├── decision-making/ # 个人决策系统 - AI 引导式决策支持
 ├── templates/       # 模板文件 - 快速创建新内容
 └── scripts/         # 实用脚本 - 自动化工具
 ```
@@ -36,6 +37,7 @@ jack-knowledge/
 - **[Workflows →](workflows/)** - 功能开发、测试、部署的完整流程
 - **[Snippets →](snippets/)** - JavaScript、Python、Shell 等常用代码
 - **[Resources →](resources/)** - 精选的文档、教程、工具、社区链接
+- **[Decision Making →](decision-making/)** - 个人决策系统，AI 引导式探索和复盘
 
 ### 按频率浏览
 
@@ -65,6 +67,14 @@ jack-knowledge/
 1. 使用 prompts/refactoring/frequently-used/clean-code.md
 2. 参考 snippets/ 中的最佳实践代码
 3. 按照 workflows/development/frequently-used/code-refactoring.md 执行
+```
+
+### 场景 4：个人决策
+```bash
+1. 使用 decision-making/coaches/self-discovery-coach.md 开始探索
+2. 参考 decision-making/methods/ 使用合适的方法
+3. 用 decision-making/frameworks/decision-journal.md 记录决策
+4. 定期用 decision-making/frameworks/reflection-template.md 复盘
 ```
 
 ## 🔍 搜索技巧
@@ -130,6 +140,7 @@ find skills/ -name "*.md" | grep "frequently-used"
 - **Workflows**: 8+ 个标准流程
 - **Snippets**: 多语言代码片段库
 - **Resources**: 精选外部资源索引
+- **Decision System**: 4 个教练 + 4 个方法 + 完整记录复盘系统
 
 ## 🔄 持续更新
 
